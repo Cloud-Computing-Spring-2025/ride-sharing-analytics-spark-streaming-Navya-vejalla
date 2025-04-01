@@ -1,0 +1,5 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-Navya-vejalla/output/ride_data/part-00000-0bf15c8c-7207-4319-911b-49eef99f6c4b-c000.csv","size":216,"isDir":false,"modificationTime":1743547890163,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-Navya-vejalla/output/ride_data/part-00001-c71aaaf0-0725-4773-ad74-5f5af8ab15b6-c000.csv","size":215,"isDir":false,"modificationTime":1743547890165,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-Navya-vejalla/output/ride_data/part-00002-9f68830b-deaa-45be-b364-c72eb7376be1-c000.csv","size":144,"isDir":false,"modificationTime":1743547890162,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-Navya-vejalla/output/ride_data/part-00003-c2745dca-a25f-4a6f-9f62-b3f2894a6db7-c000.csv","size":146,"isDir":false,"modificationTime":1743547890151,"blockReplication":1,"blockSize":33554432,"action":"add"}
